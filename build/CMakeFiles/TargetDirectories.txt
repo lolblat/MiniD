@@ -1,0 +1,3 @@
+/home/lolblat/Desktop/MiniD/build/CMakeFiles/rebuild_cache.dir
+/home/lolblat/Desktop/MiniD/build/CMakeFiles/MiniD.dir
+/home/lolblat/Desktop/MiniD/build/CMakeFiles/edit_cache.dir

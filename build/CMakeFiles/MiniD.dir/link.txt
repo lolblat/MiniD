@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic -m32 CMakeFiles/MiniD.dir/program.cpp.o CMakeFiles/MiniD.dir/Debugger.cpp.o  -o MiniD 

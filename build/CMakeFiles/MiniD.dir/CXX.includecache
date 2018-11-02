@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lolblat/Desktop/MiniD/Debugger.cpp
+Debugger.hpp
+/home/lolblat/Desktop/MiniD/Debugger.hpp
+
+/home/lolblat/Desktop/MiniD/Debugger.hpp
+iostream
+-
+sys/ptrace.h
+-
+sys/user.h
+-
+vector
+-
+sys/wait.h
+-
+string
+-
+boost/algorithm/string.hpp
+-
+
+/home/lolblat/Desktop/MiniD/program.cpp
+iostream
+-
+Debugger.hpp
+/home/lolblat/Desktop/MiniD/Debugger.hpp
+sys/types.h
+-
+unistd.h
+-
+
